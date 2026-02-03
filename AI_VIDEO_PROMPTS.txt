@@ -1,0 +1,233 @@
+SMART HOME AUTOMATION - AI VIDEO GENERATION PROMPTS
+====================================================
+
+These prompts are optimized for AI video generation tools like Runway ML, Pika Labs, 
+Stable Video Diffusion, or similar AI video generators. Each scene is designed to be 
+generated separately and then edited together.
+
+================================================================================
+SCENE 1: OFFICE TO HOME JOURNEY (5-7 seconds)
+================================================================================
+
+Prompt:
+"Cinematic shot of a modern glass office building at sunset with warm orange and 
+purple sky. A tired but relieved 35-year-old professional walks out of the entrance, 
+holding a smartphone and work bag. The person checks their phone while walking calmly. 
+Golden hour lighting, realistic, professional quality, smooth camera tracking shot 
+following the person, 24fps cinematic style."
+
+Camera Movement: Smooth tracking shot, medium wide angle
+Lighting: Golden hour, warm sunset tones
+Style: Realistic, professional, cinematic
+
+Additional Details:
+- Character: Business casual attire, slightly tired expression
+- Background: Modern architecture, some pedestrians (optional)
+- Mood: Relief, end of workday, transitioning to relaxation
+
+================================================================================
+SCENE 2: MOBILE PHONE APP INTERFACE (5-7 seconds)
+================================================================================
+
+Prompt:
+"Extreme close-up of a smartphone screen showing a modern smart home app interface. 
+The screen displays large, colorful, easy-to-understand icons for AC (blue), 
+Fan (green), Lights (yellow), and Curtains (purple). Clean, user-friendly design 
+with rounded corners and toggle buttons. The app is titled 'Smart Home Control'. 
+Bright screen glow, professional UI design, realistic phone screen, crisp and clear."
+
+Camera Movement: Stable close-up shot, slight over-shoulder perspective
+Lighting: Screen glow illuminating surroundings
+Style: Modern UI, realistic smartphone screen
+
+Additional Details:
+- App Design: Minimalist, colorful, easy to read
+- Icons: Large and recognizable by children
+- Interface: Clean white or light gray background
+- Phone: Modern smartphone (iPhone or Android style)
+
+================================================================================
+SCENE 3: ONE-TOUCH CONTROL (6-8 seconds)
+================================================================================
+
+Prompt:
+"Close-up of person's finger tapping on smart home app icons. When AC button is 
+tapped, it turns bright blue with cooling wave animation. Fan icon starts spinning 
+with rotation animation. Light bulb icon glows yellow with light ray effects. 
+Each tap shows smooth, friendly animations. Person's satisfied face visible in 
+background. Realistic finger movements, professional UI animations, warm lighting."
+
+Camera Movement: Extreme close-up on phone screen, quick cuts to animations
+Lighting: Phone screen bright, face partially illuminated
+Style: Smooth animations, realistic touch interactions
+
+Additional Details:
+- Animations: Smooth, satisfying, clear visual feedback
+- Timing: 1-2 seconds between each tap
+- Expression: Satisfied, confident
+- Sound Design: Pleasant tap sounds, confirmation beeps
+
+================================================================================
+SCENE 4: HOME RESPONDS AUTOMATICALLY (8-10 seconds)
+================================================================================
+
+Prompt A (Air Conditioner):
+"Cinematic shot of a modern wall-mounted air conditioner unit turning ON automatically 
+in an empty room. LED indicators light up blue. Cool air flows visibly with subtle 
+mist effect. Modern interior, clean design, professional lighting, realistic mechanical 
+action, no people present."
+
+Prompt B (Ceiling Fan):
+"Smooth upward tilt shot of a modern ceiling fan starting to spin slowly in an empty 
+room, gradually increasing speed. Clean white ceiling, modern fan design, cinematic 
+lighting, realistic rotation, professional quality."
+
+Prompt C (Lights Turning ON):
+"Wide cinematic shot of a modern living room with lights turning ON automatically 
+one by one. First ceiling lights, then table lamps. Warm glow spreads across the 
+room. Transformation from dim to bright and inviting. No people, smooth lighting 
+transitions, modern interior design, professional cinematography."
+
+Prompt D (Curtains Opening):
+"Medium shot of modern curtains automatically opening or adjusting in a contemporary 
+home. Smooth motorized movement. Warm natural light entering through window. Clean 
+interior, professional quality, realistic automated curtain mechanism."
+
+Camera Movement: Multiple smooth pans, tilts, and wide shots
+Lighting: Dramatic transformation from dim to warm and bright
+Style: Professional, realistic, automated actions clearly visible
+
+Additional Details:
+- Setting: Modern, clean home interior
+- Sequence: AC → Fan → Lights → Curtains (1-2 second intervals)
+- Mood: Automated, seamless, no human intervention
+- Focus: Clear visibility of each device activating
+
+================================================================================
+SCENE 5: COMFORTABLE ARRIVAL HOME (6-8 seconds)
+================================================================================
+
+Prompt:
+"Cinematic shot of a person opening their front door and entering a perfectly 
+prepared home. The room is already cool, bright, and welcoming with lights on, 
+fan spinning, and slight cool mist in the air. Person smiles genuinely, places 
+work bag down, walks to a comfortable couch and sits down with a satisfied sigh. 
+Relaxed body language, happy expression. Modern interior, warm lighting, professional 
+cinematography, realistic human movement."
+
+Camera Movement: Medium tracking shot following person, ending with wide comfort shot
+Lighting: Perfect warm interior lighting, inviting atmosphere
+Style: Realistic, natural movements, comfortable environment
+
+Additional Details:
+- Expression: Genuine happiness, relief, satisfaction
+- Actions: Door open → enter → place bag → sit → relax
+- Environment: Perfectly prepared, comfortable temperature visible
+- Mood: Peace, comfort, happiness
+
+================================================================================
+SCENE 6: SMART LIVING LIFESTYLE (4-6 seconds)
+================================================================================
+
+Prompt:
+"Wide cinematic establishing shot of a cozy modern living room with perfect warm 
+lighting and comfortable furniture. Person relaxing in background. Smartphone with 
+smart home app visible on coffee table in foreground (slightly out of focus). 
+Ceiling fan gently rotating, warm ambient lighting creating peaceful atmosphere. 
+Professional cinematography, slow push-in camera movement, modern interior design, 
+comfortable smart home lifestyle."
+
+Camera Movement: Wide shot with slow push-in, ends focused on phone
+Lighting: Perfect ambient warm lighting, inviting atmosphere
+Style: Cinematic, peaceful, professional conclusion
+
+Additional Details:
+- Composition: Phone in foreground, person in background
+- Mood: Peace, satisfaction, modern comfort
+- Message: Technology enhancing quality of life
+- Final Frame: Smart home app visible on phone screen
+
+================================================================================
+GENERAL GUIDELINES FOR ALL SCENES
+================================================================================
+
+Visual Style:
+- Realistic, photorealistic quality
+- Professional cinematic lighting
+- Smooth camera movements (no shaky cam)
+- 24-30fps for cinematic feel
+- 16:9 aspect ratio
+- Clean, modern aesthetic
+- Consistent color grading
+
+Character Consistency:
+- Same person throughout (30s-40s professional)
+- Consistent clothing (business casual)
+- Natural, realistic movements
+- Genuine emotions and expressions
+
+Technical Quality:
+- High resolution (1080p minimum, 4K preferred)
+- Professional color grading
+- Consistent lighting throughout
+- Smooth transitions between scenes
+- Clear visibility of all key elements
+
+Mood and Tone:
+- Positive, uplifting
+- Easy to understand
+- Comfortable, peaceful
+- Modern, tech-forward
+- Family-friendly, appropriate for all ages
+
+================================================================================
+EDITING NOTES
+================================================================================
+
+Transitions:
+- Use smooth dissolves or cuts between scenes
+- Maintain consistent pacing
+- Keep total duration 30-45 seconds
+- Consider adding subtle background music (uplifting, modern, non-intrusive)
+
+Audio:
+- Ambient sounds for each scene
+- UI tap/click sounds in Scene 3
+- Mechanical sounds (AC, fan) in Scene 4
+- Door opening, footsteps in Scene 5
+- Peaceful ambient in Scene 6
+- Optional: Subtle background music throughout
+
+Text Overlays (Optional):
+- Scene 3: "One Touch Control" (3s display)
+- Scene 4: "Home Responds Automatically" (3s display)
+- Scene 6: "Smart Living Made Simple" (3s display)
+- Use clean, modern sans-serif font
+- White text with slight shadow for readability
+
+Color Grading:
+- Warm tones for indoor scenes
+- Golden hour for outdoor scenes
+- Consistent skin tones throughout
+- Enhance blue for AC, yellow for lights
+- Professional, cinema-quality color correction
+
+================================================================================
+ALTERNATIVE GENERATION APPROACH
+================================================================================
+
+If generating the entire video as one prompt, use this comprehensive version:
+
+"Create a 30-45 second cinematic video showing smart home automation. 
+Scene 1: Professional leaving modern office at sunset, checking phone while walking. 
+Scene 2: Close-up of smartphone showing smart home app with colorful icons for AC, 
+Fan, Lights, Curtains. Scene 3: Person tapping buttons, animations show AC turning 
+blue, fan spinning, light glowing yellow. Scene 4: Cut to empty home - AC turns on 
+with cool mist, fan starts spinning, lights turn on sequentially, curtains open 
+automatically. Scene 5: Person arrives home, smiles at perfectly prepared comfortable 
+environment, sits down relaxed. Scene 6: Wide shot of cozy living room with phone 
+on table showing app, person relaxed in background. Professional cinematic quality, 
+realistic, warm lighting, smooth camera movements, modern interior design, 
+happy comfortable mood."
+
+================================================================================
